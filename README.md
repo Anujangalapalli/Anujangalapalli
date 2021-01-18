@@ -1,4 +1,4 @@
-### <span style="color: #c5f015"> Welcome to Anusha Jangalapalli Portfolio </span>
+## <span style="color: #c5f015"> Welcome to Anusha Jangalapalli Portfolio </span>
 
 <img width="948" alt="Screen Shot 2021-01-17 at 9 24 35 PM" src="https://user-images.githubusercontent.com/60826485/104866508-bec51a00-590c-11eb-847d-cdd1f54fb368.png">
 
