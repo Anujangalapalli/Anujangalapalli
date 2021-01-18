@@ -1,4 +1,4 @@
-### <span style="color: green"> Welcome to Anusha Jangalapalli Portfolio </span>
+### <span style="color: #c5f015"> Welcome to Anusha Jangalapalli Portfolio </span>
 
 <!--
 **Anujangalapalli/Anujangalapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
