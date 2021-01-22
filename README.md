@@ -9,6 +9,15 @@ and stored into AWS lightsail MySQL database. Then performed Sentiment Analysis 
 
 <img width="454" alt="Screen Shot 2021-01-22 at 4 49 48 PM" src="https://user-images.githubusercontent.com/60826485/105552437-e849c100-5cd1-11eb-93e3-1d599670b57f.png">
 
+- Airflow
+- AWS lightsail MySql
+- PANDAS 
+- Matplotlib
+- Tableau
+- NLTK
+- Papermill
+- PySpark
+
 ***
 
 
