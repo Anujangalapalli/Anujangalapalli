@@ -20,7 +20,7 @@ and stored into AWS lightsail MySQL database. Then performed Sentiment Analysis 
 
 ***
 
-## [Predicting-Diamond-Prices](https://github.com/Anujangalapalli/Predicting-Diamond-Price)
+## [Predicting-Diamond-Price](https://github.com/Anujangalapalli/Predicting-Diamond-Price)
 This Application predict price of diamond based on its characteristics. 
 
 https://salty-beach-52265.herokuapp.com/
