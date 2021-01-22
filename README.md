@@ -40,6 +40,13 @@ This is a minimal forum written in python with Flask. It supports features to al
 
 ***
 
+## [Scala-Redis-Bokeh](https://github.com/Anujangalapalli/Week9-ResearchProjects)
+This is a research project on scala to learn the basics of Scala, Redis database and Bokeh for visualization
+
+<img width="500" alt="Screen Shot 2021-01-22 at 6 01 16 PM" src="https://user-images.githubusercontent.com/60826485/105558139-e684fb00-5cdb-11eb-9c04-87831fd9829e.png">
+
+***
+
 <!--
 **Anujangalapalli/Anujangalapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
