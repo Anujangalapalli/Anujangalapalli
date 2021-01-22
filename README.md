@@ -2,7 +2,8 @@
 
 <img width="557" alt="Screen Shot 2021-01-17 at 9 56 35 PM" src="https://user-images.githubusercontent.com/60826485/104867473-efa64e80-590e-11eb-9f31-be1eb2f08ff3.png">
 
-[Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/Anujangalapalli/ZCW-FinalProject)
+
+## [Sentiment Analysis of Conversation Surrounding Covid-19 Vaccine](https://github.com/Anujangalapalli/ZCW-FinalProject)
 This project uses Apache airflow to run a data pipeline that fetches tweet data from Twitter API. Uses spark to clean data
 and stored into AWS lightsail MySQL database. Then performed Sentiment Analysis on the cleaned data and split data into four USA regions to visualize the data.
 
