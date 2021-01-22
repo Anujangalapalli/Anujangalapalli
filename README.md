@@ -6,7 +6,7 @@
 This project uses Apache airflow to run a data pipeline that fetches tweet data from Twitter API. Uses spark to clean data
 and stored into AWS lightsail MySQL database. Then performed Sentiment Analysis on the cleaned data and split data into four USA regions to visualize the data.
 
-<img width="474" alt="Screen Shot 2021-01-22 at 4 48 11 PM" src="https://user-images.githubusercontent.com/60826485/105552244-a1f46200-5cd1-11eb-8cef-6fc9eb2ba76a.png">
+<img width="454" alt="Screen Shot 2021-01-22 at 4 49 48 PM" src="https://user-images.githubusercontent.com/60826485/105552437-e849c100-5cd1-11eb-93e3-1d599670b57f.png">
 
 ***
 
