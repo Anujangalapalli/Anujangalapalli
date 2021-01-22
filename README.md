@@ -20,7 +20,19 @@ and stored into AWS lightsail MySQL database. Then performed Sentiment Analysis 
 
 ***
 
+## [Predicting-Diamond-Prices](https://github.com/Anujangalapalli/Predicting-Diamond-Price)
+This Application predict price of diamond based on its characteristics. 
 
+https://salty-beach-52265.herokuapp.com/
+
+<img width="463" alt="Screen Shot 2020-12-30 at 2 45 48 PM" src="https://user-images.githubusercontent.com/60826485/103377559-be73f480-4aad-11eb-83a4-c2ad3c123615.png">
+
+- Flask
+- Heroku
+- CSS
+- HTML
+
+***
 
 <!--
 **Anujangalapalli/Anujangalapalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
