@@ -38,6 +38,8 @@ https://salty-beach-52265.herokuapp.com/
 ## [ZipScrumForum](https://github.com/Anujangalapalli/ZipScrumForum)
 This is a minimal forum written in python with Flask. It supports features to allow discussions, including user accounts, threads, comments and send messages to other users.
 
+<img width="648" alt="Screen Shot 2021-01-31 at 2 31 22 PM" src="https://user-images.githubusercontent.com/60826485/106395601-19f91100-63d1-11eb-998c-875c10ff22a1.png">
+
 - Flask
 - SqlAlchemy
 - Python
